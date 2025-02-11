@@ -5,6 +5,12 @@ Questa tabella contiene le principali formule di derivazione, utili per il calco
 ## 📌 Introduzione
 Tutte le formule seguenti sono scritte in LaTeX per una migliore leggibilità. Assicurati di avere abilitato il rendering LaTeX nel tuo editor di Markdown.
 
+```html
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+```
+
 ---
 
 ## 📖 Derivate Fondamentali
